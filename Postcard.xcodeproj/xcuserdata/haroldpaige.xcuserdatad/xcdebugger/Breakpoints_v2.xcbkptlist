@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Postcard/ViewController.swift"
-            timestampString = "440544284.996138"
+            timestampString = "440565950.084841"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50">
+            startingLineNumber = "57"
+            endingLineNumber = "57">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
